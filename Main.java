@@ -6,15 +6,15 @@ public class Main {
 	}
 	
 	public void runTests() {
-		// Question 1 Tests -> Can the program add an edge?
+		// Question 1 Tests -> 
 		System.out.println(runQ1Tests());
-		// Question 2 Tests -> Can the program add a new node and sort the list in correct priority order?
+		// Question 2 Tests
 		System.out.println(runQ2Tests());
-		// Question 3 Tests -> Can the lowest priority node pop off the priority queue?
+		// Question 3 Tests
 		System.out.println(runQ3Tests());
-		// Question 4 Tests -> Can the program find the shortest path between two nodes from the given text file?
+		// Question 4 Tests
 		System.out.println(runQ4Tests());
-		// Question 5 Tests -> Can the program return the list of nodes in the shortest path between two nodes from the given text file?
+		// Question 5 Tests
 		System.out.println(runQ5Tests());
 	}
 	
