@@ -1,4 +1,4 @@
-#Dijkstras-Algorithm
+# Dijkstras-Algorithm
 This ia a progrma for Dijkstra's Algorithm implemented into Java. 
 
 Just as a preface, this program was made during an alternative assessement from the University
