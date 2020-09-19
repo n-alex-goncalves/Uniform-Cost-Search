@@ -1,6 +1,6 @@
 # Uniform Cost Search Java
 
-This ia a progrma for Uniform Cost Search implemented into Java. 
+This ia a program for Uniform Cost Search implemented into Java. 
 
 (If I'm being honest, I'm not sure whether the implementation is in fact uniform cost search. I do not remember this code well. All I remember is that it can succesfully find the shortest path in a connected weighted graph. )
 
